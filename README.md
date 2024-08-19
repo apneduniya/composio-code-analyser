@@ -8,6 +8,7 @@ Meet our new AI made using [**composio**](https://www.composio.dev/) & [**crew A
 <details>
   <summary>Table of Contents</summary>
   <ol>
+    <li>
       <span>Getting Started</span>
       <ul>
         <li><a href="#-prerequisites">Prerequisites</a></li>
